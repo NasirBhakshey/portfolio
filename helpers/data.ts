@@ -182,6 +182,6 @@ export const Educations = [
     collegeName: "ICS College Khed",
     university: "Mumbai University",
     imageSrc: "/education/Ics.jpeg",
-    duration: "2018 - 2020",
+    duration: "2017 - 2020",
   },
 ];
