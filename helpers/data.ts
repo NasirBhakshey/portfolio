@@ -1,7 +1,7 @@
 export const intro = {
   name: "Hi, I'm Nasir Bhakshey 👋",
   description:
-    "A Fullstack Java Developer is responsible for designing, coding, and building both the front-end and back-end of applications using Java-related technologies. Their role includes developing user interfaces, server-side logic, and database architecture",
+    "I am Fullstack Java Developer my responsibility for designing, coding, and building both the front-end and back-end of applications using Java-related technologies. my role is to includes developing user interfaces, server-side logic, and database architecture",
   resume:
     "https://drive.google.com/file/d/1W9JklXl7-ZvZPiPpg0nh04yxhwu9Bq1e/view?usp=drive_link",
 };
@@ -14,7 +14,7 @@ export const about = [
   },
   {
     description:
-      "As a Java Developer, I possess a strong understanding of core Java concepts and have successfully applied them in building Spring Boot-based applications. I am comfortable working with HTML, CSS, and JavaScript for front-end development. I am proficient in designing and implementing database solutions using MySQL. I am a strong advocate for Agile methodologies and actively participate in sprint planning, daily stand-ups, and retrospectives to ensure project success.",
+      "As a Java Developer, I possess a strong understanding of core Java concepts and have successfully applied them in building Spring Boot based applications. I am comfortable working with HTML, CSS, and JavaScript for front-end development. I am proficient in designing and implementing database solutions using MySQL. I am a strong advocate for Agile methodologies and actively participate in sprint planning, daily stand-ups, and retrospectives to ensure project success.",
     img: "/about/agile.png",
   },
   {
@@ -61,7 +61,7 @@ export const experience = [
       "Engineered seamless API integrations using Java and Spring Boot, ensuring smooth communication between services and systems.",
       "Developed advanced backend architecture with Spring Boot and Hibernate, optimizing performance and ensuring scalability for high-traffic applications.",
       "Automated processes with Java-based solutions and streamlined workflows to reduce manual intervention and increase operational efficiency.",
-      "Built intuitive Java-based user interfaces using JavaFX and Spring MVC, significantly improving application design coherence and user satisfaction.",
+      "Built intuitive Java-based user interfaces using Spring MVC, significantly improving application design coherence and user satisfaction.",
     ],
     imageSrc: "/experience/squad.jpeg",
   },
@@ -81,6 +81,25 @@ export const projectData = {
       skills: ["Core Java", "Spring Boot", "HTML", "Css", "Thymeleaf"],
       source: "https://github.com/NasirBhakshey/Attendance_system",
     },
+    // {
+    //   title: "Attendance System App",
+    //   imageSrc: "/projects/attendance.jpg",
+    //   designation: "Fullstack Java Developer",
+    //   description:
+    //     "The Attendance Page is accessible after user login. Users can sign in/out for the current day. The View Report button leads to the user's attendance report. Admins can access the Admin Report Page to view all users and their attendance details.",
+    //   skills: ["Core Java", "Spring Boot", "HTML", "Css", "Thymeleaf"],
+    //   demo:"",
+    //   source: "https://github.com/NasirBhakshey/Attendance_system",
+    // },
+    // {
+    //   title: "Attendance System App",
+    //   imageSrc: "/projects/attendance.jpg",
+    //   designation: "Fullstack Java Developer",
+    //   description:
+    //     "The Attendance Page is accessible after user login. Users can sign in/out for the current day. The View Report button leads to the user's attendance report. Admins can access the Admin Report Page to view all users and their attendance details.",
+    //   skills: ["Core Java", "Spring Boot", "HTML", "Css", "Thymeleaf"],
+    //   source: "https://github.com/NasirBhakshey/Attendance_system",
+    // },
   ],
 };
 
