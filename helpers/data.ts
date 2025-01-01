@@ -3,7 +3,7 @@ export const intro = {
   description:
     "I am Fullstack Java Developer my responsibility for designing, coding, and building both the front-end and back-end of applications using Java-related technologies. my role is to includes developing user interfaces, server-side logic, and database architecture",
   resume:
-    "https://drive.google.com/file/d/1W9JklXl7-ZvZPiPpg0nh04yxhwu9Bq1e/view?usp=drive_link",
+    "https://drive.google.com/file/d/1UpBBCoYIlDRctZA3ACXjhSkTDwnuolZf/view?usp=drive_link",
 };
 
 export const about = [
